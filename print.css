@@ -1,0 +1,25 @@
+body{
+    margin: 100px 100px 100px 100px;
+    margin: center;
+    border: 2px solid black;
+    background-image: url(https://media.wired.com/photos/632943b2c9bb1af7ef249860/master/w_1920,c_limit/Unsending-Text-mesages-gear-1368516400.jpg);
+}
+.container{
+    text-align: center;
+}   
+button{
+    background-color: #373937;
+  border: none;
+  color: white;
+  padding: 5px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 30px;
+  font-size: bold;
+}
+button:hover {
+    background-color: #c43030;
+}
+
